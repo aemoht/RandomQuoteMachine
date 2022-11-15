@@ -77,7 +77,7 @@ function App () {
                 </div>
             </div>
             <div className="text-center">
-                <h6>by Martin Fontaine</h6>
+                <h6>by Martin Fontaine - 2022</h6>
             </div>
         </div>
     )
