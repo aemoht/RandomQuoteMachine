@@ -1,0 +1,21 @@
+* {
+  transition: all 0.5s ease-in-out;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h5 {
+  text-align: center;
+}
+
+.card-header {
+  font-size: 20px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
